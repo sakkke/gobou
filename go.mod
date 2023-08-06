@@ -1,3 +1,3 @@
-module gotmpl
+module gobou
 
 go 1.20
